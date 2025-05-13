@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(17, 16, 16);
+    color: rgb(255, 239, 239);
+    font-family: Verdana;
+}
+
+div {
+    width: 500px;
+    margin: 30px auto;
+}
+
+h1 {
+    font-size: 35px;
+    text-align: left;
+}
+
+img {
+    width: 500px;
+    border: 2px solid red;
+}
+
+span {
+    border-left: 2px solid red;
+    border-bottom: 2px solid red;
+    text-align: left;
+}
+
+h2 {
+    text-decoration: underline red;
+}
+
+iframe {
+    width: 500px;
+    border: 2px solid red;
+    margin-bottom: 100px;
+    padding: 1px;
+}
+
+div p {
+    line-height: 25px;
+}
+
+.texto {
+    width: px;
+    border-bottom: 1px solid red;
+    border-top: 1px solid red;
+    text-align: center;
+}
+
+.poster {
+    text-align: center;
+}
